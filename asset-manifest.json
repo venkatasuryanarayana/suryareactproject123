@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suryareactproject123/static/css/main.5f361e03.chunk.css",
+    "main.js": "/suryareactproject123/static/js/main.caf9a8f0.chunk.js",
+    "main.js.map": "/suryareactproject123/static/js/main.caf9a8f0.chunk.js.map",
+    "runtime-main.js": "/suryareactproject123/static/js/runtime-main.f9ab4302.js",
+    "runtime-main.js.map": "/suryareactproject123/static/js/runtime-main.f9ab4302.js.map",
+    "static/js/2.15fc217b.chunk.js": "/suryareactproject123/static/js/2.15fc217b.chunk.js",
+    "static/js/2.15fc217b.chunk.js.map": "/suryareactproject123/static/js/2.15fc217b.chunk.js.map",
+    "index.html": "/suryareactproject123/index.html",
+    "precache-manifest.da4267825b1e2b18c5a8a9ca3ca9085e.js": "/suryareactproject123/precache-manifest.da4267825b1e2b18c5a8a9ca3ca9085e.js",
+    "service-worker.js": "/suryareactproject123/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/suryareactproject123/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.15fc217b.chunk.js.LICENSE.txt": "/suryareactproject123/static/js/2.15fc217b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/suryareactproject123/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ab4302.js",
+    "static/js/2.15fc217b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.caf9a8f0.chunk.js"
+  ]
+}
